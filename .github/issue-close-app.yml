@@ -5,7 +5,7 @@ issueConfigs:
 - content:
 # Example 1: bug report
   - "Describe the BUG"
-  - "Steps to Reproduce"
+  - "Steps To Reproduce"
   - "Expected Behavior"
   - "Current Behavior"
 
